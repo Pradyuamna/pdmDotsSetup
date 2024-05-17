@@ -1,0 +1,2 @@
+# pdmDotsSetup
+Test dots setup
